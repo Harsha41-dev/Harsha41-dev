@@ -38,8 +38,8 @@ Here are some of the technologies and tools I enjoy working with:
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/) (Replace with your actual LinkedIn URL)
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/SAIHARSHA P/) (Replace with your actual LinkedIn URL)
 * **Portfolio/Personal Website:** [Your Website Link](https://yourwebsite.com) (If you have one, replace with your actual URL)
-* **Email:** saiharsha.p@example.com (Replace with your actual email if you want it public)
+* **Email:** ponnurusaiharsha@gmail.com (Replace with your actual email if you want it public)
 
 ---

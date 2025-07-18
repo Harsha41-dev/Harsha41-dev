@@ -32,8 +32,8 @@ Here are some of the technologies and tools I enjoy working with:
 ---
 
 ### 📈 My GitHub Stats:
-[![Harsha41-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha41-dev&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha41-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsha41-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha41-dev&show_icons=true&theme=radical&count_private=true)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha41-dev&layout=compact&theme=radical)]
 
 ---
 
